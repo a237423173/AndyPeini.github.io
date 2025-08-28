@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>我們的家庭生活紀錄</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>我們的家庭生活紀錄</h1>
+    <p>珍藏日常，分享溫馨時刻 ❤️</p>
+  </header>
+
+  <main>
+    <!-- 家庭相簿 -->
+    <section id="album">
+      <h2>📷 家庭相簿</h2>
+      <div class="photo-grid">
+        <img src="images/photo1.jpg" alt="家庭合照">
+        <img src="images/photo2.jpg" alt="旅行">
+        <img src="images/photo3.jpg" alt="日常生活">
+      </div>
+    </section>
+
+    <!-- 生活日記 -->
+    <section id="diary">
+      <h2>📖 生活日記</h2>
+      <article>
+        <h3>2025-08-28</h3>
+        <p>今天全家一起做晚餐，大家分工合作，最後端出了一桌豐盛的料理，孩子們笑得很開心。</p>
+      </article>
+      <article>
+        <h3>2025-08-20</h3>
+        <p>週末去公園野餐，陽光很好，小孩玩得不想回家，大人也放鬆不少。</p>
+      </article>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2025 我們的家庭</p>
+  </footer>
+</body>
+</html>
