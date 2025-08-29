@@ -9,7 +9,7 @@ body {
 
 /* 頁首 */
 header {
-  background: #ffb347;
+  background: #2C3E50;
   color: white;
   text-align: center;
   padding: 2rem 1rem;
@@ -68,4 +68,5 @@ footer {
   padding: 1rem;
   background: #333;
   color: white;
+
 }
